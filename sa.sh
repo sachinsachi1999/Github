@@ -14,3 +14,5 @@ touch "$dir/$filename"
 
 # Confirmation message
 echo "Created $dir and $filename"
+
+echo "changed file"
